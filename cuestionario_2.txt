@@ -1,0 +1,104 @@
+FILA A
+
+PROBLEMA: El departamento de control de calidad de una compañía procesadora de alimentos especifica que la media del peso neto por paquete de cereal no debe ser menor que 20 oz.  La experiencia indica que los pesos están distribuidos normalmente con una desviación estándar de 6 oz. ¿Existe evidencia suficiente para indicar que el peso medio real de los paquetes ha decrementado, si una muestra de tamaño 64, arroja un valor medio de 18 oz?
+
+1. ¿Qué tipo de prueba de hipótesis se debe realizar? 
+- Prueba de dos colas
+- Prueba de cola derecha
+- Prueba de cola izquierda
+- No se puede determinar
+
+2. ¿Cuál es el valor calculado del estadístico de prueba Z?
+
+3. ¿Cuál es la conclusión correcta basada en la comparación del estadístico de prueba y el valor crítico (con α=0.05)?
+- No se rechaza la hipótesis nula.
+- Se rechaza la hipótesis nula.
+- Se acepta la hipótesis alternativa con certeza.
+- No hay suficiente información para tomar una decisión.
+
+FILA B 
+
+1. ¿Cuál de las siguientes afirmaciones describe correctamente la hipótesis nula (H0)?
+- Es la afirmación que el investigador desea probar directamente.
+- Indica que existe una relación significativa entre las variables.
+- Afirma que no hay diferencia ni relación entre las variables.
+- Siempre se acepta sin importar los datos obtenidos.
+
+2. Al realizar una prueba de hipótesis, ¿cuándo se decide rechazar la hipótesis nula (H0)?
+- Cuando no hay datos disponibles para analizar.
+- Cuando los datos de la muestra apoyan suficientemente la hipótesis alternativa (Ha).
+- Siempre que se formule una hipótesis alternativa.
+- Cuando los resultados son ambiguos o insuficientes.
+
+3. ¿Cuál de las siguientes situaciones representa un error de tipo I?
+- No rechazar H0 cuando H0 es verdadera.
+- Rechazar H0 cuando H0 es falsa.
+- Rechazar H0 cuando H0 es verdadera.
+- No rechazar H0 cuando H0 es falsa.
+
+4. Un investigador en educación quiere comprobar si el promedio de horas de estudio semanal de los estudiantes universitarios es mayor a 10 horas. Se toma una muestra grande.
+¿Cuál es la formulación correcta de las hipótesis?
+
+5. Un sociólogo desea evaluar si el ingreso promedio mensual de una comunidad difiere de $800, utilizando una muestra grande.
+¿Cuál es el planteamiento correcto de las hipótesis?
+- H0: μ = 800 ; Ha: μ ≠ 800
+- H0: μ > 800 ; Ha: μ < 800
+- H0: μ < 800 ; Ha: μ > 800
+- H0: μ ≠ 800 ; Ha: μ = 800
+
+6. Un investigador en educación afirma que los estudiantes universitarios estudian en promedio más de 10 horas semanales. Se toma una muestra de 64 estudiantes con media de 11.2 horas. Se sabe que la desviación estándar poblacional es 4 horas. Use α = 0.05. ¿Cuál es la decisión correcta?
+- Rechazar HO porque z > 1.645
+- No rechazar HO porque z < 1.645
+- Rechazar HO porque z < -1.645
+- No rechazar HO porque z > -1.645
+
+7. Un estudio psicológico analiza si el nivel promedio de ansiedad es menor a 50 puntos. Se toma una muestra de 100 personas con media de 47. La desviación estándar poblacional es 10. Use α = 0.05. ¿Cuál es la decisión correcta?
+-  Rechazar H0 porque z < -1.645
+- No rechazar H0 porque z < -1.645
+- Rechazar H0 porque z > 1.645
+- No rechazar H0 porque z > 1.645
+
+8. Un sociólogo quiere determinar si el ingreso promedio mensual de una comunidad es diferente de $800. Se toma una muestra de 144 personas con media de $760. La desviación estándar poblacional es $120. Use α = 0.05. ¿Cuál es la decisión correcta?
+- Rechazar H0 porque |z| > 1.96
+- No rechazar H0 porque |z| < 1.96
+- Rechazar H0 porque z < 1.96
+- No rechazar H0 porque z > -1.96
+
+9. Un investigador en educación afirma que el promedio de horas de lectura semanal de estudiantes de posgrado es mayor a 15 horas. Se toma una muestra de 16 estudiantes con media de 17 horas y desviación estándar muestral de 4 horas. Use α = 0.05.
+¿Cuál es la decisión correcta?
+- Rechazar HO porque t> 1.753
+- No rechazar HO porque t< 1.753
+- Rechazar HO porque t<-1.753
+- No rechazar HO porque t > -1.753
+
+10. Un psicólogo investiga si el nivel promedio de satisfacción laboral es menor a 70 puntos. Se toma una muestra de 25 trabajadores con media de 66 y desviación estándar de 10. Use α = 0.05.
+¿Cuál es la decisión correcta?
+- Rechazar HO porque t<-1.711
+- No rechazar HO porque t< -1.711
+- Rechazar HO porque t> 1.711
+- No rechazar HO porque t > -1.711
+
+11. Un sociólogo quiere determinar si el número promedio de horas dedicadas al voluntariado al mes es diferente de 20 horas. Se toma una muestra de 9 personas con media de 16 horas y desviación estándar de 6 horas. Use α = 0.05.
+¿Cuál es la decisión correcta?
+- Rechazar H0 porque |t| > 2.306
+- No rechazar H0 porque |t| < 2.306
+- Rechazar H0 porque t < 2.306
+- No rechazar H0 porque t > -2.306
+
+12. Se encontró que la desviación estándar de las calificaciones de cierto examen de probabilidad y estadística es de 16. Para una muestra de 36 estudiantes se obtuvo una calificación media de 56. ¿Sirven estos datos para confirmar la hipótesis de que la calificación media del examen fue de 60? Utilice para tomar su decisión, un nivel de confianza del 95%.
+- Hay evidencia estadística que la calificación media es igual a 60.
+- Hay evidencia estadística que la calificación media es diferente de 60.
+- Hay evidencia estadística que la calificación media es menor a 60.
+- Hay evidencia estadística que la calificación media es mayor a 60
+
+13. Se encontró que la desviación estándar de las calificaciones de cierto examen de probabilidad y estadística es de 16. Para una muestra de 100 estudiantes se obtuvo una calificación media de 64. ¿Sirven estos datos para confirmar la hipótesis de que la calificación media del examen fue de 60? Utilice para tomar su decisión, un nivel de confianza del 95%.
+- Hay evidencia estadística que la calificación media es igual a 60.
+- Hay evidencia estadística que la calificación media es diferente de 60.
+- Hay evidencia estadística que la calificación media es menor a 60.
+- Hay evidencia estadística que la calificación media es mayor a 60.
+
+14. Un fabricante de baterías para automóvil desea probar que las baterías que produce duran en promedio 2 años, teniendo una desviación estándar de 0.5 años. Si 5 de estas baterías tienen duraciones de 1.5, 2.5, 2.9, 3.2, y 4 años respectivamente. Al recordar su curso de Estadística Inferencial, decide construir un intervalo de confianza para la media poblacional con el 95% para probar su hipótesis, pero, se le olvidó que distribución debía usar y decidió eleguir:
+- t de Stdent por que la muestra era pequeña
+- Chi cuadrado por que la muestra era pequeña
+- Z por que la muestra era pequeña y se conoce la varianza
+- F por que se conoce la varianza y la media

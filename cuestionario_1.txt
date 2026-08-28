@@ -1,0 +1,37 @@
+1. La asociación de usuarios (ASU) sospecha que las gasolineras no sirven la cantidad pactada. Por ley, se acepta que el dispensador tenga un error de ±10 cc por cada litro que expende. En una muestra de n=100 pedidos de 1 litro, la media observada ha sido xˉ=995 cc. El intervalo de confianza del 95% (IC95%) para la media poblacional μ es:
+
+2. La asociación de usuarios (ASU) sospecha que las gasolineras no sirven la cantidad pactada. Por ley, se acepta que el dispensador tenga un error de ±10 cc por cada litro que expende. En una muestra de n=25 pedidos de 1 litro, la media observada ha sido xˉ=995 cc. El intervalo de confianza del 95% (IC95%) para la media poblacional μ, usando la distribución t, es:
+
+3. El tiempo utilizado en la atención al paciente sigue una distribución normal. Para conocer el tiempo medio empleado en este servicio, se han recogido 20 observaciones que han tardado, en minutos, Xˉ=34 y S=2.3. El intervalo de confianza del 95% (IC95%) para el tiempo medio poblacional μ es:
+
+4. El tiempo observado hasta la desaparición de un signo en 25 pacientes ha mostrado una variabilidad S2=82min2. ¿Qué sabemos sobre el auténtico valor de la varianza poblacional  σ^2  ? Proporciona un intervalo de confianza del 95% para σ^2.
+
+5. El IC99% (elija una):
+- incluye el 99% de las medias poblacionales
+- incluye el 99% de las medias muestrales
+- incluye la media poblacional el 99% de las ocasiones
+- incluye la media muestral el 99% de las ocasiones
+- Si tu razonamiento no es cercano a las opciones, marca esta respuesta
+
+6. Con un IC95% (1- alpha=95%) de μ podemos afirmar que (elija una):
+- el 95% de los casos están dentro del intervalo.
+- si se repitiera el proceso, el 95% de los casos estarían dentro del intervalo.
+- hay una probabilidad del 5% de que el parámetro μ no esté en el intervalo.
+- hay una confianza del 95% de que el parámetro μ esté en el intervalo.
+- Si tu razonamiento no es cercano a las opciones, marca esta respuesta
+
+7. Se quiere obtener un intervalo de confianza para el valor de las ventas medias por hora que se producen en un kiosco . Para ello realizamos una muestra consistente en elegir al azar las ventas que se realizaron durante 1000 horas distintas ; muestra cuyos resultados fueron : ventas medias por hora 4000 pts, y varianza de dicha muestra 4000 pts al cuadrado . Obtener dicho intervalo con un nivel de confianza del 95.5 %.
+
+8. Se desea determinar un intervalo de confianza con nivel de confianza del 99% para la proporción de amas de casa que compran sólo una vez a la semana. Si se sabe que en una muestra aleatoria simple de 400 amas de casa sólo 180 de afirmaron comprar una vez a la semana.
+
+9. Estimar el porcentaje de individuos que no lee ningún periódico al día en un pueblo de 1000 habitantes, con un nivel de significación del 1% (es decir, un nivel de confianza del 99%). Para ello, se toma una muestra de 100 personas, de las cuales 80 no leen el periódico.
+
+10. El número de errores diarios que se cometen al intentar conectar con una determinada red informática se distribuye normalmente con media desconocida . Para intentar conocer dicha media se realiza un M.A.S. de tamaño 10 días ;resultando : 2, 3, 4, 5, 4, 3, 5, -1.98, 1.98, 1 errores. Obtener un intervalo de confianza para la media de errores cometidos diariamente con un nivel de significación del 1%
+
+11. Se estima que el tiempo de reacción de un conductor ante un obstáculo imprevisto tiene una distribución normal con desviación típica 0,05 segundos. Si se quiere conseguir que el error de estimación de la media no supere los 0,01 segundos con un nivel de confianza del 99 %, ¿qué tamaño mínimo ha de tener la muestra de tiempos de reacción?
+
+12. Se desea estudiar el gasto semestral en fotocopias, en miles, de los estudiantes de bachillerato de Cartagena. Para ello, se ha elegido una muestra aleatoria de 9 de estos estudiantes, resultando los valores siguientes para estos gastos 100, 150, 90, 70, 75, 105, 200, 120, 80. Se supone que la variable aleatoria objeto de estudio sigue una distribución normal de media desconocida y desviación típica igual a 12. Determínese un intervalo de confianza al 95% para la media del gasto semanal en fotocopias por estudiante.
+
+13. Un fabricante de electrodomésticos sabe que la vida media de éstos sigue una distribución normal con media μ = 100 meses y desviación típica σ = 12 meses. Determínese el mínimo tamaño muestral que garantiza, con una probabilidad del 0,98, que la vida media de los electrodomésticos en dicha muestra se encuentra entre 90 y 110 meses.
+
+14. Igual al anterior: Se sabe que la desviación típica del peso de las sandías de una plantación es de 750 gr. Calcular el número mínimo de sandías que se han de elegir para, con un nivel de confianza del 95%, estimar el peso medio de cada una con un error menor que 300 gr. Explicar los pasos realizados para obtener el resultado.
