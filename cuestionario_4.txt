@@ -1,0 +1,155 @@
+APLICACIÓN 3: CIENCIAS DE LA VIDA – CRECIMIENTO DE PLANTAS
+
+🌱 Contexto: 4 fertilizantes (Control, Orgánico, Químico, Mixto) en 8 réplicas. Variable: biomasa seca (g). Datos:
+
+
+Control                   15, 17, 16, 14, 18, 16, 15, 17
+Orgánico                 20, 22, 21, 19, 23, 21, 20, 22
+Químico                  25, 27, 26, 24, 28, 26, 25, 27
+Mixto                       22, 24, 23, 21, 25, 23, 22, 24
+
+
+Pregunta 21: ¿Cuál es la media del tratamiento Químico?
+a) 26.0
+b) 26.5
+c) 27.0
+d) 27.5
+NINGUNA
+
+Pregunta 22: Calcule la media global.
+a) 21.5
+b) 22.0
+c) 22.5
+d) 23.0
+NINGUNA
+
+Pregunta 23: Calcule la SCT.
+Escribe tu respuesta de la forma: 345
+
+Pregunta 27: Con Fₜₐᵦ(3,28)=2.95, ¿conclusión?
+a) No hay efecto del fertilizante
+b) El fertilizante afecta significativamente la biomasa
+c) Los grupos son homogéneos
+d) No se puede concluir
+NINGUNA
+
+Pregunta 28: Para Tukey HSD con q₀.₀₅(4,28)=3.86, calcule HSD.
+Escribe tu respuesta de la forma: 3.45
+
+Pregunta 29: Con medias: C=16, O=21, Q=26, M=23 y HSD= (Revisa pregunta 28) , ¿qué par NO es significativo?
+a) O vs M (2 > 1.79 significativo)
+b) M vs Q (3 > 1.79 significativo)
+c) C vs O (5 > 1.79 significativo)
+d) Todos son significativos
+NINGUNA
+
+Pregunta 30: ¿Qué gráfico usaría para evaluar homocedasticidad?
+a) Q-Q plot
+b) Residuos vs valores ajustados
+c) Histograma
+d) Diagrama de dispersión de medias
+NINGUNA
+
+
+APLICACIÓN 4: SALUD – RESPUESTA A FÁRMACO ANTIHIPERTENSIVO
+
+💊 Contexto: 4 dosis (Placebo, 10mg, 20mg, 30mg) en 10 pacientes por grupo. Variable: reducción de presión arterial (mmHg). Datos:
+
+
+Placebo 
+
+2, 3, 1, 4, 2, 3, 2, 1, 3, 2
+10mg     
+
+5, 6, 4, 7, 5, 6, 4, 5, 6, 5
+20mg     
+
+10, 11, 9, 12, 10, 11, 9, 10, 11, 10
+30mg      
+
+14, 15, 13, 16, 14, 15, 13, 14, 15, 14
+
+
+Pregunta 33: Calcule la SCTrat. 
+Escribe tu respuesta de la forma: 3.45
+
+Pregunta 34: Si SCError = 120 y gl_error = 36, calcule CMError.
+a) 3.0
+b) 3.33
+c) 3.67
+d) 4.0
+NINGUNA
+
+Pregunta 36: Conclusión del ANOVA (α=0.05, Fₜₐᵦ=2.87):
+a) No hay efecto de la dosis
+b) La dosis afecta significativamente la presión arterial
+c) Solo la dosis más alta es efectiva
+d) El placebo es igual a todas
+NINGUNA
+
+Pregunta 37: Para LSD con t₀.₀₂₅(36)=2.03, calcule LSD. 
+Escribe tu respuesta de la forma: 3.45
+
+Pregunta 38: Con medias: P=2.3, 10=5.3, 20=10.3, 30=14.3 y LSD= (Ver pregunta 37), ¿qué pares NO son significativos? (diferencia 10-20=5)
+a) P vs 10 (3.0>1.66 significativo)
+b) 10 vs 20 (5.0>1.66 significativo)
+c) 20 vs 30 (4.0>1.66 significativo)
+d) Todos son significativos
+NINGUNA
+
+Pregunta 40: Si los residuos no son normales, ¿qué alternativa usar?
+a) ANOVA igualmente
+b) Kruskal-Wallis
+c) Prueba de Friedman
+d) Transformación logarítmica
+NINGUNA
+
+
+APLICACIÓN 5: CIENCIAS SOCIALES – SATISFACCIÓN LABORAL
+
+🧠 Contexto: 3 tipos de liderazgo (Autoritario, Democrático, Laissez-faire) en 8 empresas por tipo. Variable: satisfacción laboral (escala 0-100). Datos:
+
+
+Autoritario       55,58,57,56,59,54,56,57
+Democrático   75,78,77,76,79,74,76,77
+Laissez-faire   65,68,67,66,69,64,66,67
+
+
+Pregunta 43: Calcule la SCT.   Escribe tu respuesta de la forma: 345
+
+Pregunta 41: ¿Cuál es la media del estilo Democrático?
+a) 76.0
+b) 76.5
+c) 77.0
+d) 77.5
+NINGUNA
+
+Pregunta 42: Calcule la media global.
+a) 65.5
+b) 66.5
+c) 67.5
+d) 68.5
+NINGUNA
+
+Pregunta 45: Si gl_error=21 y CMError=9.52, calcule F con CMTrat=800. Escribe tu respuesta de la forma: 34.5
+
+Pregunta 46: Conclusión del ANOVA (α=0.05, Fₜₐᵦ=3.47):
+a) No hay diferencias entre estilos de liderazgo
+b) El liderazgo afecta la satisfacción laboral
+c) Solo el democrático es diferente
+d) Los tres son iguales
+NINGUNA
+
+Pregunta 49: ¿Qué supuesto implica que las asignaciones sean aleatorias?
+a) Normalidad
+b) Independencia de los errores
+c) Homocedasticidad
+d) Linealidad
+NINGUNA
+
+Pregunta 50: ¿Qué gráfico diagnostica la normalidad de residuos?
+a) Boxplot por tratamiento
+b) Gráfico Q-Q
+c) Diagrama de barras de medias
+d) Gráfico de líneas
+NINGUNA

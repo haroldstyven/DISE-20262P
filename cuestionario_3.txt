@@ -1,0 +1,109 @@
+APLICACIÓN 1: INGENIERÍA – RESISTENCIA A LA TRACCIÓN DE ALEACIONES
+
+🔧 Contexto: Un ingeniero evalúa 4 tratamientos térmicos (A, B, C, D) sobre la resistencia a la tracción (MPa) de una aleación de aluminio. Se asignan 5 probetas al azar por tratamiento. Los datos obtenidos son:
+
+Tratamiento
+Resistencia (MPa)
+A 28, 31, 29, 30, 32
+B 34, 33, 35, 32, 36
+C 38, 40, 37, 39, 41
+D 44, 43, 45, 42, 46
+
+📐 Modelo: Yij = μ + τi + εij, con εij ~ N(0, σ²)
+
+Pregunta 1: Calcule la media global (gran media) de todos los datos.
+a) 35.0 MPa
+b) 36.75 MPa
+c) 37.2 MPa
+d) 38.5 MPa
+NINGUNA
+
+Pregunta 2: ¿Cuál es la hipótesis nula correcta para este DCA?
+a) H₀: τ₁ = τ₂ = τ₃ = τ₄ = 0
+b) H₀: μ₁ = μ₂ = μ₃ = μ₄
+c) H₀: σ₁² = σ₂² = σ₃² = σ₄²
+d) H₀: al menos un τᵢ ≠ 0
+NINGUNA
+
+Pregunta 3: Calcule la Suma de Cuadrados Total (SCT) para estos datos.
+a) 594
+b) 620
+c) 720
+d) 820
+NINGUNA
+
+Pregunta 4: Calcule la Suma de Cuadrados entre tratamientos (SCTrat).
+Escriba su respuesta en la forma por ejemplo: 593.75
+
+Pregunta 8: Para Tukey HSD con q₀.₀₅(4,16)=4.05, calcule HSD.
+Escriba su respuesta en la forma por ejemplo: 593.75
+
+Pregunta 9: Con las medias A=30, B=34, C=39, D=44 y HSD= (ver pregunta 8), ¿qué pares no son significativamente diferentes?
+a) A y B (diferencia 4 > 2.86 → significativo)
+b) B y C (5 > 2.86 → significativo)
+c) C y D (5 > 2.86 → significativo)
+d) Todos los pares son diferentes
+NINGUNA
+
+Pregunta 10: ¿Qué prueba usaría para verificar homocedasticidad?
+a) Shapiro-Wilk
+b) Levene o Bartlett
+c) Durbin-Watson
+d) Prueba t de Student
+NINGUNA
+
+APLICACIÓN 2: CIENCIAS ECONÓMICAS – PRODUCTIVIDAD LABORAL
+
+📈 Contexto: Se comparan 3 métodos de capacitación (E-learning, Presencial, Mixto) en 6 empresas por método. Variable: productividad (unidades/día). Datos:
+
+
+E-learning 
+
+42, 45, 43, 47, 44, 46
+Presencial 
+
+50, 52, 49, 53, 51, 54
+Mixto 
+
+48, 49, 47, 50, 46, 51
+
+Pregunta 11: ¿Cuál es la media del método Presencial?  Escriba su respuesta en la forma por ejemplo: 53.7
+
+Pregunta 12: ¿Cuál es la hipótesis alternativa para el factor método?
+a) H₁: μ₁ = μ₂ = μ₃
+b) H₁: τ₁ = τ₂ = τ₃ = 0
+c) H₁: al menos una media es diferente
+d) H₁: σ₁² = σ₂² = σ₃²
+NINGUNA
+
+Pregunta 14: Calcule la SCTrat.
+a) 120
+b) 140
+c) 148
+d) 160
+NINGUNA
+
+Pregunta 16: Calcule el estadístico F para tratamientos.
+a) 147/5.33 = 27.6
+b) 80/147 = 0.54
+c) 147/80 = 1.84
+d) 5.33/147 = 0.036
+e) 73.98/5.333=13.87
+NINGUNA
+
+Pregunta 17: Con Fₜₐᵦ(2,15)=3.68, ¿conclusión?
+a) No rechazar H₀
+b) Rechazar H₀; hay diferencias entre métodos
+c) Los métodos son iguales
+d) Falta información
+NINGUNA
+
+Pregunta 18: Calcule LSD de Fisher con t₀.₀₂₅(15)=2.131.
+Escriba su respuesta en la forma por ejemplo:  12.84
+
+Pregunta 19: Con medias E=44.5, P=51.5, M=48.5 y LSD=(ver ejercicio 18), ¿qué pares difieren?
+a) E vs P (7>2.84), E vs M (4>2.84), P vs M (3>2.84) → todos
+b) Solo E vs P
+c) Solo P vs M
+d) Solo E vs M
+NINGUNA
